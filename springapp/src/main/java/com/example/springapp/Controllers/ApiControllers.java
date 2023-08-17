@@ -9,4 +9,6 @@ public class app{
 <attributes>
 <classpathentry>
 </attribute name="kind"=src>
+<"true"></true>
+<"attribute"></attribute>
 }
